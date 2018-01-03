@@ -6,5 +6,5 @@ def greeting(name)
 end
 
 puts "Hi! I'm HAL, what's your name?"
-name = gets.chomp
+name = gets.strip
 greeting(name)
