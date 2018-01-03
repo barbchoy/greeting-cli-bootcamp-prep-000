@@ -8,6 +8,3 @@ def greeting
 end
 
   puts "Hi! I'm HAL, what's your name?"
-
-
-
